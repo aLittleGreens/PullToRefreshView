@@ -3,6 +3,6 @@
 
 ![image](https://github.com/cai784921129/PullToRefreshView/blob/master/app/screenshot/loadmore.gif?raw=true)
 
-![image](https://github.com/cai784921129/PullToRefreshView/tree/master/app/screenshot/refresh.gif?raw=true)
-![image](https://github.com/cai784921129/AuthNumView/blob/master/app/capture/authNumView.gif?raw=true)
+![image](https://github.com/cai784921129/PullToRefreshView/blob/master/app/screenshot/refresh.gif?raw=true)
+
 
